@@ -1,0 +1,10 @@
+footer {
+  background-color: #292929;
+  color: white;
+}
+.background {
+  object-fit: cover;
+}
+.nav-link {
+  color:black
+}
