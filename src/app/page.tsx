@@ -1,5 +1,6 @@
 'use client';
 
+import FooterMenu from '@/components/Footer';
 import FullWidthImage from '@/components/FullWidthImage';
 import IslandSnowLogo from '@/components/IslandSnow-Logo';
 import MiddleMenu from '@/components/MiddleMenu';
@@ -12,7 +13,7 @@ const Home = () => (
     <IslandSnowLogo />
     <MiddleMenu />
     <FullWidthImage />
-
+    <FooterMenu />
   </main>
 );
 
